@@ -1,0 +1,2 @@
+#1/bin/bash
+gc -S masm=intel $CFILE
